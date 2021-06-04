@@ -66,7 +66,7 @@ tasks.withType<JavaCompile> {
 
 tasks.withType<Test> {
     // Enables JUnit 5 Jupiter module
-    useJUnitPlatform()
+//    useJUnitPlatform()
 }
 
 application {
